@@ -1,6 +1,7 @@
 # 📊 E-Commerce Sales Dashboard (2022)
 
 An interactive business intelligence dashboard built to analyze e-commerce performance across products, cities, categories, and time. The dashboard consolidates sales, profit, and order data into a single visual report to support data-driven decision-making.
+https://github.com/touseef2005-data/-E-commerce-Sales-Dashboard-2022/blob/main/Ecommerce%20sales%20dashboard%202022.png
 
  
 ## 📌 Overview
@@ -77,6 +78,8 @@ This project presents a complete **Ecommerce Data Dashboard** for the year 2022,
 - KPI tracking and reporting
 - Data modeling and DAX calculations
 - Translating raw data into actionable business insights
+
+https://github.com/touseef2005-data/-E-commerce-Sales-Dashboard-2022/blob/main/Ecommerce%20sales%20dashboard%202022.png
 
 ---
 
