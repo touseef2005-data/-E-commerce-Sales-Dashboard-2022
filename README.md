@@ -135,9 +135,6 @@ Possible next steps include:
 - Add verified findings and report refresh instructions.
 
 ## Dashboard Screenshot
-
-Add the screenshot file to your repository, for example at `screenshots/ecommerce-dashboard-2022.png`, then display it here:
-
-![E-commerce Sales Dashboard | 2022](screenshots/ecommerce-dashboard-2022.png)
-
-Replace the image path with the actual path and filename you upload.
+https://github.com/touseef2005-data/-E-commerce-Sales-Dashboard-2022/blob/main/Ecommerce%20sales%20dashboard%202022.png
+ 
+ 
